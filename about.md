@@ -2,10 +2,9 @@
 layout: page
 title: About
 ---
-<iframe title="Anna Marie Boeglin" width="560" height="315" src="https://video.ploud.jp/videos/embed/4ee909f7-c329-4439-977b-db4128a44893" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+[<iframe title="Anna Marie Boeglin" width="560" height="315" src="https://video.ploud.jp/videos/embed/4ee909f7-c329-4439-977b-db4128a44893" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>](https://github.com/LWFlouisa/UploadedFairyAudiobook/blob/main/images/uploadedfairybookcover.png?raw=true)
 
-My name is Hemato, and I have a thing for blood.
-
-My short stories can be found here: [Short Stories](https://lwflouisa.github.io/ShortFiction/page/11/)
+Light Novel: [ Volume1 ](https://tapas.io/series/Uploaded-Fairy--Volume-1-/info)
+Four Frame Novel: [Webcomic Version](https://tapas.io/series/Uploaded-Fairy/info)
 
 Screenplay Version: [Script](https://lwflouisa.github.io/UploadedFairyOELN/screenplay.html)
