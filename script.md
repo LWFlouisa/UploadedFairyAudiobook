@@ -3,11 +3,12 @@ layout: page
 title: About
 ---
 ## UPLOADED FAIRY
-
 Art Style: This is drawn on a four panel grid, using a mixture of Sumi Painting and Charcoal. Because of the grid, I’m not sure how 5 panel pages will translate. Visually, it blends the French graphic novel tradition of Bande Dessinnee ( specifically Western ) and Seinen Manga of a Horror Scifi bent.
+
 Plot: This is a Horror / Scifi Romance that crosses the time periods of the 1830s to 2129 A.D. In the 1800s, France recovers from the aftermath of the first French Revolution. However the main focus revolution is in the one of 1871. In the future, mankind blurs that distinction between Artificial Intelligence, Virtual Reality, and Humanity in a period of Modern Stasis.
 Historical Context: Paris is recovering from the aftermath of the 1871 Revolution. In the future, the US is split between Japanese and French imperial powers for control over the hallowed land mass that was once the United States.
-Conlang: https://personaljournal.ca/hafestra-conlang/
+
+Conlang: https://lwflouisa.github.io/FraponicStatic/
 
 CHARACTERS
 HEMATO-TOMATO - Age 19-119 ( is age 26 when she goes dormant inside a cave filled with cybernetic wires, protected from the “colonial wars” between French and Japanese American territories. Would become the next state executioner, after her father who had inherited the title from the Guillotine Family of France after the return of the device. She doesn’t want to become an executioner, but finds that her desires conflict with this soft nature. When she returns into the flesh in 2084 A.D., her faith in humanity is broken, and thereby completely breaking her sanity.
