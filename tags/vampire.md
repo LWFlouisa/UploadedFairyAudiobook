@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "Clinical Vampires And Post World War III"
 ---
 The vampire in my works of fiction different from the supernatural vampire, in that they’re still genetically related to humans, and are not a form of the undead. But rather can be seen as shorthand for “clinical vampirism”. The first known clinical vampire was “Hemato-Tomato”, an executioner’s assistnat that initially resisted her profession as North America’s headswoman for the guillotine.
 
