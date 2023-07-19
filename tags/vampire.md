@@ -2,7 +2,7 @@
 layout: page
 title: "Clinical Vampires And Post World War III"
 ---
-The vampire in my works of fiction different from the supernatural vampire, in that they’re still genetically related to humans, and are not a form of the undead. But rather can be seen as shorthand for “clinical vampirism”. The first known clinical vampire was “Hemato-Tomato”, an executioner’s assistnat that initially resisted her profession as North America’s headswoman for the guillotine.
+The vampire in my works of fiction differ from the supernatural vampire, in that they’re still genetically related to humans, and are not a form of the undead. But rather can be seen as shorthand for “clinical vampirism”. The first known clinical vampire was “Hemato-Tomato”, an executioner’s assistnat that initially resisted her profession as North America’s headswoman for the guillotine.
 
 Such “clinical vampires” generally have a sexual attraction to the sight of blood. Do to a misunderstanding of the intentions of vampires, they had been hunted in the same way official ethnic groups had been, and often some ethnic traits had vampire traits hoisted upon them. But the evidence that minorities like Jewish people had vampire traits is unfounded.
 
