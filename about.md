@@ -10,5 +10,5 @@ Four Frame Novel: [Webcomic Version](https://tapas.io/series/Uploaded-Fairy/info
 
 ## Own Website
 Webcomic Website: [Four Frame Novel](https://lwflouisa.github.io/UploadedFairy/)<br />
-Webcomic Scriot: [Graphic Novel Script](https://lwflouisa.github.io/UploadedFairyAudiobook/script.html)
+Webcomic Scriot: [Graphic Novel Script](https://lwflouisa.github.io/UploadedFairyAudiobook/script.html)<br />
 Poetry: [My Poetry](https://lwflouisa.github.io/MyPoetry/2023/07/13/bonnenuitmessoeur.html)
