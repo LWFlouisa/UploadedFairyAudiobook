@@ -25,3 +25,10 @@ Disallow: /assets
 Disallow: /drafts
 Disallow: /images
 Disallow: /
+
+User-agent: Google-Extended
+Disallow: /_posts
+Disallow: /assets
+Disallow: /drafts
+Disallow: /images
+Disallow: /
